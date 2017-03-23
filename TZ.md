@@ -18,9 +18,9 @@
 
 *Пример выдачи:*
 
-`Token 3: 'токенизации'\n
-Type: cyr\n
-Document: letter0`
+> Token 3: 'токенизации'
+> Type: cyr
+> Document: letter0
 
 **Используемые типы токенов:**
 * *empty* — для пустых токенов
