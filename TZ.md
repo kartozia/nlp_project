@@ -76,3 +76,4 @@
 * список [эмотиконов](./emoticons.txt) и [эмоджи](./emoji.txt)
 * [словарь Зализняка](./zdf-win.txt)
 * [список местоимений](./pronouns.txt)
+* [список аббревиатур](./abbreviations.txt)
