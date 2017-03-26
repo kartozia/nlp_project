@@ -1,4 +1,3 @@
-
 Token 1: 'Здравствуйте' 
 Type: cyr lex-prop
 Document: letter 800
