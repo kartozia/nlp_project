@@ -1,0 +1,2228 @@
+
+Token 1: 'Здравствуйте' 
+Type: cyr lex-prop
+Document: letter 800
+
+Token 2: '!' 
+Type: punctuation
+Document: letter 800
+
+Token 3: 'В' 
+Type: cyr
+Document: letter 800
+
+Token 4: 'последний' 
+Type: cyr
+Document: letter 800
+
+Token 5: 'момент' 
+Type: cyr
+Document: letter 800
+
+Token 6: 'мы' 
+Type: cyr
+Document: letter 800
+
+Token 7: 'обнаружили' 
+Type: cyr
+Document: letter 800
+
+Token 8: 'несостыковку' 
+Type: cyr
+Document: letter 800
+
+Token 9: 'с' 
+Type: cyr
+Document: letter 800
+
+Token 10: 'расписанием' 
+Type: cyr
+Document: letter 800
+
+Token 11: 'сессии' 
+Type: cyr
+Document: letter 800
+
+Token 12: 'на' 
+Type: cyr
+Document: letter 800
+
+Token 13: 'сайте' 
+Type: cyr
+Document: letter 800
+
+Token 14: '(' 
+Type: punctuation
+Document: letter 800
+
+Token 15: 'http://www.hse.ru/ba/ling/timetable?fromdate=2015.06.22&todate=2015.06.27&groupoid=399&timetable' 
+Type: link 
+Document: letter 800
+
+Token 16: '-' 
+Type: punctuation
+Document: letter 800
+
+Token 17: 'courses=1&timetable' 
+Type: something
+Document: letter 800
+
+Token 18: ')' 
+Type: punctuation
+Document: letter 800
+
+Token 19: ',' 
+Type: punctuation
+Document: letter 800
+
+Token 20: 'где' 
+Type: cyr
+Document: letter 800
+
+Token 21: 'экзамен' 
+Type: cyr
+Document: letter 800
+
+Token 22: 'начинается' 
+Type: cyr
+Document: letter 800
+
+Token 23: 'в' 
+Type: cyr
+Document: letter 800
+
+Token 24: '9' 
+Type: numbers
+Document: letter 800
+
+Token 25: ',' 
+Type: punctuation
+Document: letter 800
+
+Token 26: 'и' 
+Type: cyr
+Document: letter 800
+
+Token 27: 'тем' 
+Type: cyr
+Document: letter 800
+
+Token 28: ',' 
+Type: punctuation
+Document: letter 800
+
+Token 29: 'что' 
+Type: cyr
+Document: letter 800
+
+Token 30: 'было' 
+Type: cyr
+Document: letter 800
+
+Token 31: 'вывешено' 
+Type: cyr
+Document: letter 800
+
+Token 32: 'учебный' 
+Type: cyr
+Document: letter 800
+
+Token 33: 'офисом' 
+Type: cyr
+Document: letter 800
+
+Token 34: '(' 
+Type: punctuation
+Document: letter 800
+
+Token 35: '10' 
+Type: numbers
+Document: letter 800
+
+Token 36: 'часов).Во' 
+Type: cyr
+Document: letter 800
+
+Token 37: 'сколько' 
+Type: cyr
+Document: letter 800
+
+Token 38: 'на' 
+Type: cyr
+Document: letter 800
+
+Token 39: 'самом' 
+Type: cyr
+Document: letter 800
+
+Token 40: 'деле' 
+Type: cyr
+Document: letter 800
+
+Token 41: 'нужно' 
+Type: cyr
+Document: letter 800
+
+Token 42: 'приходить' 
+Type: cyr
+Document: letter 800
+
+Token 43: '?' 
+Type: punctuation
+Document: letter 800
+
+Token 44: 'Вся' 
+Type: cyr lex-prop
+Document: letter 800
+
+Token 45: 'группа' 
+Type: cyr
+Document: letter 800
+
+Token 46: 'считала' 
+Type: cyr
+Document: letter 800
+
+Token 47: ',' 
+Type: punctuation
+Document: letter 800
+
+Token 48: 'что' 
+Type: cyr
+Document: letter 800
+
+Token 49: 'приходить' 
+Type: cyr
+Document: letter 800
+
+Token 50: 'нужно' 
+Type: cyr
+Document: letter 800
+
+Token 51: 'к' 
+Type: cyr
+Document: letter 800
+
+Token 52: '10' 
+Type: numbers
+Document: letter 800
+
+Token 53: '.' 
+Type: punctuation
+Document: letter 800
+
+Token 54: 'С' 
+Type: cyr
+Document: letter 800
+
+Token 55: 'уважением' 
+Type: cyr
+Document: letter 800
+
+Token 56: ',' 
+Type: punctuation
+Document: letter 800
+
+Token 57: 'группа' 
+Type: cyr
+Document: letter 800
+
+Token 58: '1401' 
+Type: numbers
+Document: letter 800
+
+Token 59: 'Давайте' 
+Type: cyr lex-prop
+Document: letter 801
+
+Token 60: 'в' 
+Type: cyr
+Document: letter 801
+
+Token 61: '10' 
+Type: numbers
+Document: letter 801
+
+Token 62: '.' 
+Type: punctuation
+Document: letter 801
+
+Token 63: 'Только' 
+Type: cyr lex-prop
+Document: letter 801
+
+Token 64: 'чтобы' 
+Type: cyr
+Document: letter 801
+
+Token 65: 'все' 
+Type: cyr
+Document: letter 801
+
+Token 66: 'пришли' 
+Type: cyr
+Document: letter 801
+
+Token 67: 'к' 
+Type: cyr
+Document: letter 801
+
+Token 68: '10' 
+Type: numbers
+Document: letter 801
+
+Token 69: 'и' 
+Type: cyr
+Document: letter 801
+
+Token 70: 'чтобы' 
+Type: cyr
+Document: letter 801
+
+Token 71: 'не' 
+Type: cyr
+Document: letter 801
+
+Token 72: 'было' 
+Type: cyr
+Document: letter 801
+
+Token 73: 'путаницы' 
+Type: cyr
+Document: letter 801
+
+Token 74: '.' 
+Type: punctuation
+Document: letter 801
+
+Token 75: 'Всего' 
+Type: cyr lex-prop
+Document: letter 801
+
+Token 76: 'доброго' 
+Type: cyr
+Document: letter 801
+
+Token 77: ',' 
+Type: punctuation
+Document: letter 801
+
+Token 78: 'Борис' 
+Type: cyr lex-prop
+Document: letter 801
+
+Token 79: 'Орехов' 
+Type: cyr lex-prop
+Document: letter 801
+
+Token 80: 'Дорогие' 
+Type: cyr lex-prop
+Document: letter 802
+
+Token 81: 'студенты' 
+Type: cyr
+Document: letter 802
+
+Token 82: ',' 
+Type: punctuation
+Document: letter 802
+
+Token 83: 'Завтра' 
+Type: cyr lex-prop
+Document: letter 802
+
+Token 84: 'мы' 
+Type: cyr
+Document: letter 802
+
+Token 85: 'ждем' 
+Type: cyr
+Document: letter 802
+
+Token 86: 'вас' 
+Type: cyr
+Document: letter 802
+
+Token 87: 'ВСЕХ' 
+Type: cyr
+Document: letter 802
+
+Token 88: 'на' 
+Type: cyr
+Document: letter 802
+
+Token 89: 'собрании' 
+Type: cyr
+Document: letter 802
+
+Token 90: 'с' 
+Type: cyr
+Document: letter 802
+
+Token 91: 'руководителем' 
+Type: cyr
+Document: letter 802
+
+Token 92: 'школы' 
+Type: cyr
+Document: letter 802
+
+Token 93: 'лингвистики' 
+Type: cyr
+Document: letter 802
+
+Token 94: 'Е.В.' 
+Type: cyr initial
+Document: letter 802
+
+Token 95: 'Рахилиной' 
+Type: cyr lex-prop
+Document: letter 802
+
+Token 96: '.' 
+Type: punctuation
+Document: letter 802
+
+Token 97: '11.06.2015' 
+Type:  date
+Document: letter 802
+
+Token 98: 'в' 
+Type: cyr
+Document: letter 802
+
+Token 99: '13:40' 
+Type:  time
+Document: letter 802
+
+Token 100: 'в' 
+Type: cyr
+Document: letter 802
+
+Token 101: '511' 
+Type: numbers
+Document: letter 802
+
+Token 102: 'аудитории' 
+Type: cyr
+Document: letter 802
+
+Token 103: '.' 
+Type: punctuation
+Document: letter 802
+
+Token 104: 'Это' 
+Type: cyr lex-prop
+Document: letter 802
+
+Token 105: 'не' 
+Type: cyr
+Document: letter 802
+
+Token 106: 'займет' 
+Type: cyr
+Document: letter 802
+
+Token 107: 'больше' 
+Type: cyr
+Document: letter 802
+
+Token 108: '20' 
+Type: numbers
+Document: letter 802
+
+Token 109: 'минут' 
+Type: cyr
+Document: letter 802
+
+Token 110: ',' 
+Type: punctuation
+Document: letter 802
+
+Token 111: 'при' 
+Type: cyr
+Document: letter 802
+
+Token 112: 'этом' 
+Type: cyr
+Document: letter 802
+
+Token 113: 'те' 
+Type: cyr
+Document: letter 802
+
+Token 114: ',' 
+Type: punctuation
+Document: letter 802
+
+Token 115: 'у' 
+Type: cyr
+Document: letter 802
+
+Token 116: 'кого' 
+Type: cyr
+Document: letter 802
+
+Token 117: 'в' 
+Type: cyr
+Document: letter 802
+
+Token 118: 'это' 
+Type: cyr
+Document: letter 802
+
+Token 119: 'время' 
+Type: cyr
+Document: letter 802
+
+Token 120: 'пары' 
+Type: cyr
+Document: letter 802
+
+Token 121: ',' 
+Type: punctuation
+Document: letter 802
+
+Token 122: 'смогут' 
+Type: cyr
+Document: letter 802
+
+Token 123: 'пойти' 
+Type: cyr
+Document: letter 802
+
+Token 124: 'на' 
+Type: cyr
+Document: letter 802
+
+Token 125: 'занятия' 
+Type: cyr
+Document: letter 802
+
+Token 126: 'после' 
+Type: cyr
+Document: letter 802
+
+Token 127: 'собрания' 
+Type: cyr
+Document: letter 802
+
+Token 128: '.' 
+Type: punctuation
+Document: letter 802
+
+Token 129: 'С' 
+Type: cyr
+Document: letter 802
+
+Token 130: 'уважением' 
+Type: cyr
+Document: letter 802
+
+Token 131: ',' 
+Type: punctuation
+Document: letter 802
+
+Token 132: 'Учебный' 
+Type: cyr lex-prop
+Document: letter 802
+
+Token 133: 'офис' 
+Type: cyr
+Document: letter 802
+
+Token 134: 'Здравствуйте' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 135: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 136: 'lingua' 
+Type: lat
+Document: letter 803
+
+Token 137: '!' 
+Type: punctuation
+Document: letter 803
+
+Token 138: 'Пароль' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 139: 'Вашего' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 140: 'аккаунта' 
+Type: cyr
+Document: letter 803
+
+Token 141: 'Google' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 142: '(' 
+Type: punctuation
+Document: letter 803
+
+Token 143: 'linghse2014@gmail.com' 
+Type: mail
+Document: letter 803
+
+Token 144: ')' 
+Type: punctuation
+Document: letter 803
+
+Token 145: 'был' 
+Type: cyr
+Document: letter 803
+
+Token 146: 'изменен' 
+Type: cyr
+Document: letter 803
+
+Token 147: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 148: 'Если' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 149: 'пароль' 
+Type: cyr
+Document: letter 803
+
+Token 150: 'изменили' 
+Type: cyr
+Document: letter 803
+
+Token 151: 'Вы' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 152: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 153: 'то' 
+Type: cyr
+Document: letter 803
+
+Token 154: 'дальнейшие' 
+Type: cyr
+Document: letter 803
+
+Token 155: 'действия' 
+Type: cyr
+Document: letter 803
+
+Token 156: 'не' 
+Type: cyr
+Document: letter 803
+
+Token 157: 'требуются' 
+Type: cyr
+Document: letter 803
+
+Token 158: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 159: 'Если' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 160: 'Вы' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 161: 'не' 
+Type: cyr
+Document: letter 803
+
+Token 162: 'меняли' 
+Type: cyr
+Document: letter 803
+
+Token 163: 'пароль' 
+Type: cyr
+Document: letter 803
+
+Token 164: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 165: 'возможно' 
+Type: cyr
+Document: letter 803
+
+Token 166: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 167: 'Ваш' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 168: 'аккаунт' 
+Type: cyr
+Document: letter 803
+
+Token 169: 'был' 
+Type: cyr
+Document: letter 803
+
+Token 170: 'взломан' 
+Type: cyr
+Document: letter 803
+
+Token 171: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 172: 'Чтобы' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 173: 'получить' 
+Type: cyr
+Document: letter 803
+
+Token 174: 'к' 
+Type: cyr
+Document: letter 803
+
+Token 175: 'нему' 
+Type: cyr
+Document: letter 803
+
+Token 176: 'доступ' 
+Type: cyr
+Document: letter 803
+
+Token 177: 'измените' 
+Type: cyr
+Document: letter 803
+
+Token 178: 'пароль' 
+Type: cyr
+Document: letter 803
+
+Token 179: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 180: 'перейдя' 
+Type: cyr
+Document: letter 803
+
+Token 181: 'по' 
+Type: cyr
+Document: letter 803
+
+Token 182: 'ссылке' 
+Type: cyr
+Document: letter 803
+
+Token 183: ':' 
+Type: punctuation
+Document: letter 803
+
+Token 184: 'https://accounts.google.com/RecoverAccount?fpOnly=1&source=ancppe&Email=linghse2014@gmail.com' 
+Type: mail
+Document: letter 803
+
+Token 185: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 186: 'Чтобы' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 187: 'устранить' 
+Type: cyr
+Document: letter 803
+
+Token 188: 'неполадку' 
+Type: cyr
+Document: letter 803
+
+Token 189: 'или' 
+Type: cyr
+Document: letter 803
+
+Token 190: 'получить' 
+Type: cyr
+Document: letter 803
+
+Token 191: 'дополнительные' 
+Type: cyr
+Document: letter 803
+
+Token 192: 'сведения' 
+Type: cyr
+Document: letter 803
+
+Token 193: 'о' 
+Type: cyr
+Document: letter 803
+
+Token 194: 'своем' 
+Type: cyr
+Document: letter 803
+
+Token 195: 'аккаунте' 
+Type: cyr
+Document: letter 803
+
+Token 196: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 197: 'посетите' 
+Type: cyr
+Document: letter 803
+
+Token 198: 'наш' 
+Type: cyr
+Document: letter 803
+
+Token 199: 'справочный' 
+Type: cyr
+Document: letter 803
+
+Token 200: 'центр' 
+Type: cyr
+Document: letter 803
+
+Token 201: ':' 
+Type: punctuation
+Document: letter 803
+
+Token 202: 'https://support.google.com/accounts/bin/answer.py?answer=1628875' 
+Type: link 
+Document: letter 803
+
+Token 203: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 204: 'С' 
+Type: cyr
+Document: letter 803
+
+Token 205: 'уважением' 
+Type: cyr
+Document: letter 803
+
+Token 206: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 207: 'Команда' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 208: 'Google' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 209: 'Аккаунтов' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 210: 'Не' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 211: 'отвечайте' 
+Type: cyr
+Document: letter 803
+
+Token 212: 'на' 
+Type: cyr
+Document: letter 803
+
+Token 213: 'это' 
+Type: cyr
+Document: letter 803
+
+Token 214: 'сообщение' 
+Type: cyr
+Document: letter 803
+
+Token 215: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 216: 'Подробности' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 217: 'можно' 
+Type: cyr
+Document: letter 803
+
+Token 218: 'узнать' 
+Type: cyr
+Document: letter 803
+
+Token 219: 'в' 
+Type: cyr
+Document: letter 803
+
+Token 220: 'Справочном' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 221: 'центре' 
+Type: cyr
+Document: letter 803
+
+Token 222: 'Google' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 223: 'Аккаунтов' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 224: '(' 
+Type: punctuation
+Document: letter 803
+
+Token 225: 'https://support.google.com/accounts/bin/answer.py?answer=1628875' 
+Type: link 
+Document: letter 803
+
+Token 226: ')' 
+Type: punctuation
+Document: letter 803
+
+Token 227: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 228: 'Это' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 229: 'обязательное' 
+Type: cyr
+Document: letter 803
+
+Token 230: 'уведомление' 
+Type: cyr
+Document: letter 803
+
+Token 231: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 232: 'содержащее' 
+Type: cyr
+Document: letter 803
+
+Token 233: 'сведения' 
+Type: cyr
+Document: letter 803
+
+Token 234: 'о' 
+Type: cyr
+Document: letter 803
+
+Token 235: 'важных' 
+Type: cyr
+Document: letter 803
+
+Token 236: 'изменениях' 
+Type: cyr
+Document: letter 803
+
+Token 237: 'в' 
+Type: cyr
+Document: letter 803
+
+Token 238: 'используемом' 
+Type: cyr
+Document: letter 803
+
+Token 239: 'Вами' 
+Type: cyr lex-prop
+Document: letter 803
+
+Token 240: 'сервисе' 
+Type: cyr
+Document: letter 803
+
+Token 241: 'или' 
+Type: cyr
+Document: letter 803
+
+Token 242: 'аккаунте' 
+Type: cyr
+Document: letter 803
+
+Token 243: 'Google' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 244: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 245: '(' 
+Type: punctuation
+Document: letter 803
+
+Token 246: 'c' 
+Type: lat
+Document: letter 803
+
+Token 247: ')' 
+Type: punctuation
+Document: letter 803
+
+Token 248: '2015' 
+Type: numbers
+Document: letter 803
+
+Token 249: 'Google' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 250: 'Inc' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 251: '.' 
+Type: punctuation
+Document: letter 803
+
+Token 252: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 253: '1600' 
+Type: numbers
+Document: letter 803
+
+Token 254: 'Amphitheatre' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 255: 'Parkway' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 256: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 257: 'Mountain' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 258: 'View' 
+Type: lat lex-prop
+Document: letter 803
+
+Token 259: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 260: 'CA' 
+Type: lat
+Document: letter 803
+
+Token 261: '94043' 
+Type: numbers
+Document: letter 803
+
+Token 262: ',' 
+Type: punctuation
+Document: letter 803
+
+Token 263: 'USA' 
+Type: lat
+Document: letter 803
+
+Token 264: 'Дорогие' 
+Type: cyr lex-prop
+Document: letter 804
+
+Token 265: 'студенты' 
+Type: cyr
+Document: letter 804
+
+Token 266: ',' 
+Type: punctuation
+Document: letter 804
+
+Token 267: 'хотела' 
+Type: cyr
+Document: letter 804
+
+Token 268: 'бы' 
+Type: cyr
+Document: letter 804
+
+Token 269: 'узнать' 
+Type: cyr
+Document: letter 804
+
+Token 270: 'а' 
+Type: cyr
+Document: letter 804
+
+Token 271: ')' 
+Type: punctuation
+Document: letter 804
+
+Token 272: 'кто' 
+Type: cyr
+Document: letter 804
+
+Token 273: 'подал' 
+Type: cyr
+Document: letter 804
+
+Token 274: 'на' 
+Type: cyr
+Document: letter 804
+
+Token 275: 'стажировку' 
+Type: cyr
+Document: letter 804
+
+Token 276: 'в' 
+Type: cyr
+Document: letter 804
+
+Token 277: 'Хельсинки' 
+Type: cyr lex-prop
+Document: letter 804
+
+Token 278: 'в' 
+Type: cyr
+Document: letter 804
+
+Token 279: 'осеннем' 
+Type: cyr
+Document: letter 804
+
+Token 280: 'семестре' 
+Type: cyr
+Document: letter 804
+
+Token 281: '?' 
+Type: punctuation
+Document: letter 804
+
+Token 282: 'б' 
+Type: cyr
+Document: letter 804
+
+Token 283: ')' 
+Type: punctuation
+Document: letter 804
+
+Token 284: 'кто' 
+Type: cyr
+Document: letter 804
+
+Token 285: 'не' 
+Type: cyr
+Document: letter 804
+
+Token 286: 'подал' 
+Type: cyr
+Document: letter 804
+
+Token 287: ',' 
+Type: punctuation
+Document: letter 804
+
+Token 288: 'но' 
+Type: cyr
+Document: letter 804
+
+Token 289: 'хотел' 
+Type: cyr
+Document: letter 804
+
+Token 290: 'бы' 
+Type: cyr
+Document: letter 804
+
+Token 291: '?' 
+Type: punctuation
+Document: letter 804
+
+Token 292: 'Вопрос' 
+Type: cyr lex-prop
+Document: letter 804
+
+Token 293: 'срочный' 
+Type: cyr
+Document: letter 804
+
+Token 294: '.' 
+Type: punctuation
+Document: letter 804
+
+Token 295: '-' 
+Type: punctuation
+Document: letter 804
+
+Token 296: 'Nina' 
+Type: lat lex-prop
+Document: letter 804
+
+Token 297: 'Dobrushina' 
+Type: lat lex-prop
+Document: letter 804
+
+Token 298: 'Дорогие' 
+Type: cyr lex-prop
+Document: letter 805
+
+Token 299: 'студенты' 
+Type: cyr
+Document: letter 805
+
+Token 300: ',' 
+Type: punctuation
+Document: letter 805
+
+Token 301: 'С' 
+Type: cyr
+Document: letter 805
+
+Token 302: 'Наступившими' 
+Type: cyr lex-prop
+Document: letter 805
+
+Token 303: 'Вас' 
+Type: cyr lex-prop
+Document: letter 805
+
+Token 304: 'Праздниками' 
+Type: cyr lex-prop
+Document: letter 805
+
+Token 305: '!' 
+Type: punctuation
+Document: letter 805
+
+Token 306: 'Завтра' 
+Type: cyr lex-prop
+Document: letter 805
+
+Token 307: ',' 
+Type: punctuation
+Document: letter 805
+
+Token 308: 'в' 
+Type: cyr
+Document: letter 805
+
+Token 309: 'лекционное' 
+Type: cyr
+Document: letter 805
+
+Token 310: 'время' 
+Type: cyr
+Document: letter 805
+
+Token 311: '(' 
+Type: punctuation
+Document: letter 805
+
+Token 312: 'в' 
+Type: cyr
+Document: letter 805
+
+Token 313: '10' 
+Type: numbers
+Document: letter 805
+
+Token 314: '-' 
+Type: punctuation
+Document: letter 805
+
+Token 315: '30' 
+Type: numbers
+Document: letter 805
+
+Token 316: ')' 
+Type: punctuation
+Document: letter 805
+
+Token 317: 'состоится' 
+Type: cyr
+Document: letter 805
+
+Token 318: 'показ' 
+Type: cyr
+Document: letter 805
+
+Token 319: 'контрольных' 
+Type: cyr
+Document: letter 805
+
+Token 320: 'работ' 
+Type: cyr
+Document: letter 805
+
+Token 321: 'по' 
+Type: cyr
+Document: letter 805
+
+Token 322: 'дискретной' 
+Type: cyr
+Document: letter 805
+
+Token 323: 'математике' 
+Type: cyr
+Document: letter 805
+
+Token 324: ',' 
+Type: punctuation
+Document: letter 805
+
+Token 325: 'выставление' 
+Type: cyr
+Document: letter 805
+
+Token 326: 'промежуточных' 
+Type: cyr
+Document: letter 805
+
+Token 327: 'оценок' 
+Type: cyr
+Document: letter 805
+
+Token 328: 'за' 
+Type: cyr
+Document: letter 805
+
+Token 329: '2' 
+Type: numbers
+Document: letter 805
+
+Token 330: 'модуль' 
+Type: cyr
+Document: letter 805
+
+Token 331: '.' 
+Type: punctuation
+Document: letter 805
+
+Token 332: 'Я' 
+Type: cyr
+Document: letter 805
+
+Token 333: 'особенно' 
+Type: cyr
+Document: letter 805
+
+Token 334: 'жду' 
+Type: cyr
+Document: letter 805
+
+Token 335: 'тех' 
+Type: cyr
+Document: letter 805
+
+Token 336: ',' 
+Type: punctuation
+Document: letter 805
+
+Token 337: 'кто' 
+Type: cyr
+Document: letter 805
+
+Token 338: 'написал' 
+Type: cyr
+Document: letter 805
+
+Token 339: 'работу' 
+Type: cyr
+Document: letter 805
+
+Token 340: 'не' 
+Type: cyr
+Document: letter 805
+
+Token 341: 'очень' 
+Type: cyr
+Document: letter 805
+
+Token 342: 'хорошо' 
+Type: cyr
+Document: letter 805
+
+Token 343: '(' 
+Type: punctuation
+Document: letter 805
+
+Token 344: 'или' 
+Type: cyr
+Document: letter 805
+
+Token 345: 'хуже' 
+Type: cyr
+Document: letter 805
+
+Token 346: ',' 
+Type: punctuation
+Document: letter 805
+
+Token 347: 'чем' 
+Type: cyr
+Document: letter 805
+
+Token 348: 'планировал' 
+Type: cyr
+Document: letter 805
+
+Token 349: ')' 
+Type: punctuation
+Document: letter 805
+
+Token 350: ',' 
+Type: punctuation
+Document: letter 805
+
+Token 351: 'попробую' 
+Type: cyr
+Document: letter 805
+
+Token 352: 'с' 
+Type: cyr
+Document: letter 805
+
+Token 353: 'каждым' 
+Type: cyr
+Document: letter 805
+
+Token 354: 'обсудить' 
+Type: cyr
+Document: letter 805
+
+Token 355: 'ошибки' 
+Type: cyr
+Document: letter 805
+
+Token 356: '.' 
+Type: punctuation
+Document: letter 805
+
+Token 357: 'Во' 
+Type: cyr lex-prop
+Document: letter 805
+
+Token 358: 'вторник' 
+Type: cyr
+Document: letter 805
+
+Token 359: 'во' 
+Type: cyr
+Document: letter 805
+
+Token 360: 'время' 
+Type: cyr
+Document: letter 805
+
+Token 361: 'семинара' 
+Type: cyr
+Document: letter 805
+
+Token 362: 'будет' 
+Type: cyr
+Document: letter 805
+
+Token 363: 'разбор' 
+Type: cyr
+Document: letter 805
+
+Token 364: 'задач' 
+Type: cyr
+Document: letter 805
+
+Token 365: 'контрольной' 
+Type: cyr
+Document: letter 805
+
+Token 366: ',' 
+Type: punctuation
+Document: letter 805
+
+Token 367: 'а' 
+Type: cyr
+Document: letter 805
+
+Token 368: 'в' 
+Type: cyr
+Document: letter 805
+
+Token 369: 'четверг' 
+Type: cyr
+Document: letter 805
+
+Token 370: 'скорее' 
+Type: cyr
+Document: letter 805
+
+Token 371: 'всего' 
+Type: cyr
+Document: letter 805
+
+Token 372: 'состоится' 
+Type: cyr
+Document: letter 805
+
+Token 373: 'переписывание' 
+Type: cyr
+Document: letter 805
+
+Token 374: '(' 
+Type: punctuation
+Document: letter 805
+
+Token 375: 'точнее' 
+Type: cyr
+Document: letter 805
+
+Token 376: 'время' 
+Type: cyr
+Document: letter 805
+
+Token 377: 'выберем' 
+Type: cyr
+Document: letter 805
+
+Token 378: 'завтра' 
+Type: cyr
+Document: letter 805
+
+Token 379: ')' 
+Type: punctuation
+Document: letter 805
+
+Token 380: '.' 
+Type: punctuation
+Document: letter 805
+
+Token 381: 'До' 
+Type: cyr lex-prop
+Document: letter 805
+
+Token 382: 'завтра' 
+Type: cyr
+Document: letter 805
+
+Token 383: '.' 
+Type: punctuation
+Document: letter 805
+
+Token 384: 'Н.Е' 
+Type: cyr
+Document: letter 805
+
+Token 385: 'Дорогие' 
+Type: cyr lex-prop
+Document: letter 811
+
+Token 386: 'все' 
+Type: cyr
+Document: letter 811
+
+Token 387: ',' 
+Type: punctuation
+Document: letter 811
+
+Token 388: 'к' 
+Type: cyr
+Document: letter 811
+
+Token 389: 'понедельнику' 
+Type: cyr
+Document: letter 811
+
+Token 390: 'читаем' 
+Type: cyr
+Document: letter 811
+
+Token 391: 'про' 
+Type: cyr
+Document: letter 811
+
+Token 392: 'корни' 
+Type: cyr
+Document: letter 811
+
+Token 393: 'и' 
+Type: cyr
+Document: letter 811
+
+Token 394: 'аффиксы' 
+Type: cyr
+Document: letter 811
+
+Token 395: ',' 
+Type: punctuation
+Document: letter 811
+
+Token 396: 'т.е.' 
+Type: cyr abbreviation
+Document: letter 811
+
+Token 397: ':' 
+Type: punctuation
+Document: letter 811
+
+Token 398: 'из' 
+Type: cyr
+Document: letter 811
+
+Token 399: 'Плунгяна' 
+Type: cyr lex-prop
+Document: letter 811
+
+Token 400: 'Гл' 
+Type: cyr lex-prop
+Document: letter 811
+
+Token 401: '3' 
+Type: numbers
+Document: letter 811
+
+Token 402: 'из' 
+Type: cyr
+Document: letter 811
+
+Token 403: 'Хаспельмата' 
+Type: cyr lex-prop
+Document: letter 811
+
+Token 404: '2.2' 
+Type: numbers
+Document: letter 811
+
+Token 405: 'Попозже' 
+Type: cyr lex-prop
+Document: letter 811
+
+Token 406: 'я' 
+Type: cyr
+Document: letter 811
+
+Token 407: 'пришлю' 
+Type: cyr
+Document: letter 811
+
+Token 408: 'еще' 
+Type: cyr
+Document: letter 811
+
+Token 409: 'статью' 
+Type: cyr
+Document: letter 811
+
+Token 410: 'Мельчука' 
+Type: cyr lex-prop
+Document: letter 811
+
+Token 411: 'про' 
+Type: cyr
+Document: letter 811
+
+Token 412: 'внутреннюю' 
+Type: cyr
+Document: letter 811
+
+Token 413: 'флексию' 
+Type: cyr
+Document: letter 811
+
+Token 414: '.' 
+Type: punctuation
+Document: letter 811
+
+Token 415: 'М.Д.' 
+Type: cyr initial
+Document: letter 811
+
+Token 416: 'Дорогие' 
+Type: cyr lex-prop
+Document: letter 812
+
+Token 417: 'первокурсники' 
+Type: cyr
+Document: letter 812
+
+Token 418: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 419: 'Извините' 
+Type: cyr lex-prop
+Document: letter 812
+
+Token 420: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 421: 'с' 
+Type: cyr
+Document: letter 812
+
+Token 422: 'записью' 
+Type: cyr
+Document: letter 812
+
+Token 423: 'на' 
+Type: cyr
+Document: letter 812
+
+Token 424: 'пересдачи' 
+Type: cyr
+Document: letter 812
+
+Token 425: 'вышла' 
+Type: cyr
+Document: letter 812
+
+Token 426: 'какая-то' 
+Type: cyr
+Document: letter 812
+
+Token 427: 'путаница' 
+Type: cyr
+Document: letter 812
+
+Token 428: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 429: 'и' 
+Type: cyr
+Document: letter 812
+
+Token 430: 'фамилии' 
+Type: cyr
+Document: letter 812
+
+Token 431: 'некоторых' 
+Type: cyr
+Document: letter 812
+
+Token 432: 'записавшихся' 
+Type: cyr
+Document: letter 812
+
+Token 433: 'вчера' 
+Type: cyr
+Document: letter 812
+
+Token 434: 'исчезли' 
+Type: cyr
+Document: letter 812
+
+Token 435: 'по' 
+Type: cyr
+Document: letter 812
+
+Token 436: 'непонятным' 
+Type: cyr
+Document: letter 812
+
+Token 437: 'причинам' 
+Type: cyr
+Document: letter 812
+
+Token 438: '.' 
+Type: punctuation
+Document: letter 812
+
+Token 439: 'Вот' 
+Type: cyr lex-prop
+Document: letter 812
+
+Token 440: 'говорят' 
+Type: cyr
+Document: letter 812
+
+Token 441: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 442: 'что' 
+Type: cyr
+Document: letter 812
+
+Token 443: 'если' 
+Type: cyr
+Document: letter 812
+
+Token 444: 'вносить' 
+Type: cyr
+Document: letter 812
+
+Token 445: 'свои' 
+Type: cyr
+Document: letter 812
+
+Token 446: 'данные' 
+Type: cyr
+Document: letter 812
+
+Token 447: 'неаккуратно' 
+Type: cyr
+Document: letter 812
+
+Token 448: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 449: 'можно' 
+Type: cyr
+Document: letter 812
+
+Token 450: 'стереть' 
+Type: cyr
+Document: letter 812
+
+Token 451: 'то' 
+Type: cyr
+Document: letter 812
+
+Token 452: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 453: 'что' 
+Type: cyr
+Document: letter 812
+
+Token 454: 'уже' 
+Type: cyr
+Document: letter 812
+
+Token 455: 'есть' 
+Type: cyr
+Document: letter 812
+
+Token 456: 'в' 
+Type: cyr
+Document: letter 812
+
+Token 457: 'графе' 
+Type: cyr
+Document: letter 812
+
+Token 458: '.' 
+Type: punctuation
+Document: letter 812
+
+Token 459: 'Пожалуйста' 
+Type: cyr lex-prop
+Document: letter 812
+
+Token 460: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 461: 'проверьте' 
+Type: cyr
+Document: letter 812
+
+Token 462: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 463: 'что' 
+Type: cyr
+Document: letter 812
+
+Token 464: 'Ваша' 
+Type: cyr lex-prop
+Document: letter 812
+
+Token 465: 'фамилия' 
+Type: cyr
+Document: letter 812
+
+Token 466: 'на' 
+Type: cyr
+Document: letter 812
+
+Token 467: 'месте' 
+Type: cyr
+Document: letter 812
+
+Token 468: '.' 
+Type: punctuation
+Document: letter 812
+
+Token 469: 'И' 
+Type: cyr
+Document: letter 812
+
+Token 470: 'вписывайтесь' 
+Type: cyr
+Document: letter 812
+
+Token 471: 'аккуратнее' 
+Type: cyr
+Document: letter 812
+
+Token 472: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 473: 'следите' 
+Type: cyr
+Document: letter 812
+
+Token 474: ',' 
+Type: punctuation
+Document: letter 812
+
+Token 475: 'чтобы' 
+Type: cyr
+Document: letter 812
+
+Token 476: 'не' 
+Type: cyr
+Document: letter 812
+
+Token 477: 'удалить' 
+Type: cyr
+Document: letter 812
+
+Token 478: 'чужие' 
+Type: cyr
+Document: letter 812
+
+Token 479: 'данные' 
+Type: cyr
+Document: letter 812
+
+Token 480: '.' 
+Type: punctuation
+Document: letter 812
+
+Token 481: 'Дамы' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 482: 'и' 
+Type: cyr
+Document: letter 813
+
+Token 483: 'Господа' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 484: '!' 
+Type: punctuation
+Document: letter 813
+
+Token 485: 'Вас' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 486: 'приветствует' 
+Type: cyr
+Document: letter 813
+
+Token 487: 'студенческий' 
+Type: cyr
+Document: letter 813
+
+Token 488: 'театр' 
+Type: cyr
+Document: letter 813
+
+Token 489: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 490: 'Le' 
+Type: lat lex-prop
+Document: letter 813
+
+Token 491: 'Defi' 
+Type: lat lex-prop
+Document: letter 813
+
+Token 492: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 493: 'НИУ' 
+Type: cyr
+Document: letter 813
+
+Token 494: 'ВШЭ' 
+Type: cyr
+Document: letter 813
+
+Token 495: '.' 
+Type: punctuation
+Document: letter 813
+
+Token 496: 'Мы' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 497: 'рады' 
+Type: cyr
+Document: letter 813
+
+Token 498: 'пригласить' 
+Type: cyr
+Document: letter 813
+
+Token 499: 'Вас' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 500: 'на' 
+Type: cyr
+Document: letter 813
+
+Token 501: 'премьеру' 
+Type: cyr
+Document: letter 813
+
+Token 502: 'нашего' 
+Type: cyr
+Document: letter 813
+
+Token 503: 'спектакля' 
+Type: cyr
+Document: letter 813
+
+Token 504: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 505: 'Позитивное' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 506: 'безумие' 
+Type: cyr
+Document: letter 813
+
+Token 507: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 508: ',' 
+Type: punctuation
+Document: letter 813
+
+Token 509: 'которая' 
+Type: cyr
+Document: letter 813
+
+Token 510: 'состоится' 
+Type: cyr
+Document: letter 813
+
+Token 511: '31' 
+Type: numbers
+Document: letter 813
+
+Token 512: 'января' 
+Type: cyr
+Document: letter 813
+
+Token 513: 'в' 
+Type: cyr
+Document: letter 813
+
+Token 514: '19.00' 
+Type: numbers
+Document: letter 813
+
+Token 515: 'в' 
+Type: cyr
+Document: letter 813
+
+Token 516: 'корпусе' 
+Type: cyr
+Document: letter 813
+
+Token 517: 'Высшей' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 518: 'школы' 
+Type: cyr
+Document: letter 813
+
+Token 519: 'экономики' 
+Type: cyr
+Document: letter 813
+
+Token 520: '(' 
+Type: punctuation
+Document: letter 813
+
+Token 521: 'ст' 
+Type: cyr
+Document: letter 813
+
+Token 522: '.' 
+Type: punctuation
+Document: letter 813
+
+Token 523: 'метро' 
+Type: cyr
+Document: letter 813
+
+Token 524: 'Рижская' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 525: ',' 
+Type: punctuation
+Document: letter 813
+
+Token 526: 'Трифоновская' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 527: 'улица' 
+Type: cyr
+Document: letter 813
+
+Token 528: ',' 
+Type: punctuation
+Document: letter 813
+
+Token 529: 'д.' 
+Type: cyr abbreviation
+Document: letter 813
+
+Token 530: '57' 
+Type: numbers
+Document: letter 813
+
+Token 531: ')' 
+Type: punctuation
+Document: letter 813
+
+Token 532: '.' 
+Type: punctuation
+Document: letter 813
+
+Token 533: 'В' 
+Type: cyr
+Document: letter 813
+
+Token 534: '2013' 
+Type: numbers
+Document: letter 813
+
+Token 535: 'г.' 
+Type: cyr abbreviation
+Document: letter 813
+
+Token 536: 'на' 
+Type: cyr
+Document: letter 813
+
+Token 537: 'фестивале' 
+Type: cyr
+Document: letter 813
+
+Token 538: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 539: 'Maski' 
+Type: lat lex-prop
+Document: letter 813
+
+Token 540: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 541: 'в' 
+Type: cyr
+Document: letter 813
+
+Token 542: 'Москве' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 543: 'в' 
+Type: cyr
+Document: letter 813
+
+Token 544: '2013' 
+Type: numbers
+Document: letter 813
+
+Token 545: 'году' 
+Type: cyr
+Document: letter 813
+
+Token 546: 'спектакль' 
+Type: cyr
+Document: letter 813
+
+Token 547: 'был' 
+Type: cyr
+Document: letter 813
+
+Token 548: 'удостоен' 
+Type: cyr
+Document: letter 813
+
+Token 549: 'приза' 
+Type: cyr
+Document: letter 813
+
+Token 550: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 551: 'За' 
+Type: cyr lex-prop
+Document: letter 813
+
+Token 552: 'лучший' 
+Type: cyr
+Document: letter 813
+
+Token 553: 'сценарий' 
+Type: cyr
+Document: letter 813
+
+Token 554: '"' 
+Type: punctuation
+Document: letter 813
+
+Token 555: ',' 
+Type: punctuation
+Document: letter 813
+
+Token 556: 'а' 
+Type: cyr
+Document: letter 813
+
+Token 557: 'актеры' 
+Type: cyr
+Document: letter 813
